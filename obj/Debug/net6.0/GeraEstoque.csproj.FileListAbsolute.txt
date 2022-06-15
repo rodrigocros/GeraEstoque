@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/bin/Debug/net6.0/GeraEstoque
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/bin/Debug/net6.0/GeraEstoque.deps.json
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/bin/Debug/net6.0/GeraEstoque.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/bin/Debug/net6.0/GeraEstoque.dll
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/bin/Debug/net6.0/GeraEstoque.pdb
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.dll
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/refint/GeraEstoque.dll
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.pdb
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/GeraEstoque.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/cs/GeraEstoque/obj/Debug/net6.0/ref/GeraEstoque.dll
